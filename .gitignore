@@ -1,0 +1,9 @@
+/*
+node_modules
+!src/*
+!.prettierrc.json
+!package.json
+!package-lock.json
+!.prettierignore
+!.gitignore
+# Here, everything works as expected

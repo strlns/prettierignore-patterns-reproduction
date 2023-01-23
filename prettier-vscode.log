@@ -1,0 +1,92 @@
+["INFO" - 16:17:14] Extension Name: esbenp.preqqttier-vscode.
+["INFO" - 16:17:14] Extension Version: 9.10.4.
+["INFO" - 16:19:16] Formatting file:///home/moritz/git/prettier-vscode-prettierignore-patterns/src/example.html
+["INFO" - 16:19:16] Using config file at '/home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierrc.json'
+["INFO" - 16:19:16] Using ignore file (if present) at /home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierignore
+["INFO" - 16:19:16] File Info:
+{
+  "ignored": true,
+  "inferredParser": null
+}
+["INFO" - 16:19:16] File is ignored, skipping.
+["INFO" - 16:19:19] Formatting file:///home/moritz/git/prettier-vscode-prettierignore-patterns/src/example.html
+["INFO" - 16:19:19] Using config file at '/home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierrc.json'
+["INFO" - 16:19:19] Using ignore file (if present) at /home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierignore
+["INFO" - 16:19:19] File Info:
+{
+  "ignored": true,
+  "inferredParser": null
+}
+["INFO" - 16:19:19] File is ignored, skipping.
+["INFO" - 16:19:54] Formatting file:///home/moritz/git/prettier-vscode-prettierignore-patterns/src/example.js
+["INFO" - 16:19:54] Using config file at '/home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierrc.json'
+["INFO" - 16:19:54] Using ignore file (if present) at /home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierignore
+["INFO" - 16:19:54] File Info:
+{
+  "ignored": true,
+  "inferredParser": null
+}
+["INFO" - 16:19:54] File is ignored, skipping.
+["INFO" - 16:20:03] Formatting file:///home/moritz/git/prettier-vscode-prettierignore-patterns/src/example.js
+["INFO" - 16:20:03] Using config file at '/home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierrc.json'
+["INFO" - 16:20:03] Using ignore file (if present) at /home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierignore
+["INFO" - 16:20:03] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 16:20:03] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 16:20:03] Prettier Options:
+{
+  "filepath": "/home/moritz/git/prettier-vscode-prettierignore-patterns/src/example.js",
+  "parser": "babel",
+  "useTabs": true,
+  "tabWidth": 4,
+  "semi": true
+}
+["INFO" - 16:20:03] Formatting completed in 124ms.
+["INFO" - 16:20:16] Formatting file:///home/moritz/git/prettier-vscode-prettierignore-patterns/src/example.js
+["INFO" - 16:20:16] Using config file at '/home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierrc.json'
+["INFO" - 16:20:16] Using ignore file (if present) at /home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierignore
+["INFO" - 16:20:16] File Info:
+{
+  "ignored": true,
+  "inferredParser": null
+}
+["INFO" - 16:20:16] File is ignored, skipping.
+["INFO" - 16:20:19] Formatting file:///home/moritz/git/prettier-vscode-prettierignore-patterns/src/example.html
+["INFO" - 16:20:19] Using config file at '/home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierrc.json'
+["INFO" - 16:20:19] Using ignore file (if present) at /home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierignore
+["INFO" - 16:20:19] File Info:
+{
+  "ignored": true,
+  "inferredParser": null
+}
+["INFO" - 16:20:19] File is ignored, skipping.
+["INFO" - 16:20:38] Formatting file:///home/moritz/git/prettier-vscode-prettierignore-patterns/src/example.html
+["INFO" - 16:20:38] Using config file at '/home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierrc.json'
+["INFO" - 16:20:38] Using ignore file (if present) at /home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierignore
+["INFO" - 16:20:38] File Info:
+{
+  "ignored": true,
+  "inferredParser": null
+}
+["INFO" - 16:20:38] File is ignored, skipping.
+["INFO" - 16:20:41] Formatting file:///home/moritz/git/prettier-vscode-prettierignore-patterns/src/example.js
+["INFO" - 16:20:41] Using config file at '/home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierrc.json'
+["INFO" - 16:20:41] Using ignore file (if present) at /home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierignore
+["INFO" - 16:20:41] File Info:
+{
+  "ignored": true,
+  "inferredParser": null
+}
+["INFO" - 16:20:41] File is ignored, skipping.
+["INFO" - 16:20:42] Formatting file:///home/moritz/git/prettier-vscode-prettierignore-patterns/src/example.js
+["INFO" - 16:20:42] Using config file at '/home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierrc.json'
+["INFO" - 16:20:42] Using ignore file (if present) at /home/moritz/git/prettier-vscode-prettierignore-patterns/.prettierignore
+["INFO" - 16:20:42] File Info:
+{
+  "ignored": true,
+  "inferredParser": null
+}
+["INFO" - 16:20:42] File is ignored, skipping.
