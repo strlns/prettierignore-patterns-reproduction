@@ -6,4 +6,3 @@ node_modules
 !package-lock.json
 !.prettierignore
 !.gitignore
-# Here, everything works as expected

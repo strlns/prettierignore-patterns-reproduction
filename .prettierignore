@@ -1,4 +1,3 @@
 /*
-!/src/**/*
+!/src
 /src/**/*.html
-# Result: nothing is formatted until the first line is removed.
